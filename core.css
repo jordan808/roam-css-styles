@@ -859,9 +859,9 @@ blockquote .small, blockquote footer, blockquote small {
     background-color: var(--codemirror-bg);
 }
 
-#buffer { /* HIDES BOTTOM RIGHT HELP ICON */
+/* #buffer { /* HIDES BOTTOM RIGHT HELP ICON 
     visibility: hidden;
-}
+} */
 
 /* Inline Select, thanks eatondpe for spotting this! */
 select {
